@@ -36,3 +36,17 @@ You can find answer [here](https://sites.google.com/view/geekhiren/home)
 Install Node and npm latest version <br/> 
 Install Angular CLI v13.1.2 or later <br/>
 Install Visual Studio Code <br/>
+### Lab 2 - NPM example
+
+```
+
+$ npm init
+$ npm install jquery --save
+$ npm install angular --save
+```
+
+#### package.json and versioning
+
+What is Major version, minor version and revision version <br/>
+What is difference between ^, ~ and * <br/>
+What is difference between dependency and devDependency
