@@ -90,7 +90,7 @@ $ ng new project-name
 ```
 
 Angular CLI is command line interface which helps to get basic setup of angular project <br/>
-For eg: If we run, `npm install --save angular` we will able to get angular 1.7.8 as updated in package-lock.json file, so angular-cli helps to get latest version of angular (currently 8) with basic setup of angular project
+For eg: If we run, `npm install --save angular` we will able to get angular 13.1.2 as updated in package-lock.json file, so angular-cli helps to get latest version of angular (currently 13) with basic setup of angular project
 
 AngularJS means 1.X version
 Angular means 2.x or higher
