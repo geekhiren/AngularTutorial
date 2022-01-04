@@ -29,7 +29,7 @@ For feedback can drop mail to my email address geekhiren@gmail.com or you can cr
 ### Lab 1 - Angular overview
 
 What and why we have to use Angular
-You can find answer [here](https://sites.google.com/view/geekhiren/home)
+You can find answer [here](https://sites.google.com/view/geekhiren/angular)
 
 #### Prerequisite to learn angular
 
